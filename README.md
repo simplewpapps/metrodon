@@ -1,7 +1,7 @@
 # Metrodon
 Metrodon is an unofficial, open-source Mastodon instances reader.
 
-# Get Metrodon
+
 [![Get Metrodon from Live Store](https://edge.live.net.co/images/store/2025_GetButton_SmallBlack.png)](https://store.live.net.co/app/324)
 
 # Functionality
